@@ -4,6 +4,6 @@ End points of project:
 
 'admin/'
 'api/posts', PostList
-'api/posts/<int:pk>', views.PostRetrieveDestroy
-'api/posts/<int:pk>/vote', views.VoteCreate
+'api/posts/<int:pk>', Post-Retrieve-Destroy
+'api/posts/<int:pk>/vote', Vote Create
 'api/auth/'
