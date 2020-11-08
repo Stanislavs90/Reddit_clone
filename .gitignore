@@ -1,0 +1,4 @@
+venv/
+reddit_clone_project/db.sqlite3
+reddit_clone_project/posts/__pycache__/
+reddit_clone_project/posts/migrations/
